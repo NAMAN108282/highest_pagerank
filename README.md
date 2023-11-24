@@ -1,1 +1,1 @@
-# highest_pagerank using GraphFrames and MLlib
+# Highest PageRank using GraphFrames and MLlib
